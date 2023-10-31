@@ -1,0 +1,137 @@
+[
+  {
+    "productos":[
+      
+       {
+            "id": 1,
+            "nameProduct": "memoria ram",
+            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/D_NQ_NP_722260-MPE42586139989_072020-O.jpg",
+            "price": 1000,
+            "quatity":1,
+            "categoria":1
+       },
+          {
+            "id": 2,
+            "nameProduct": "memoria ram",
+            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/ram-ddr4.jpg",
+            "price": 1600,
+            "quatity":1,
+            "categoria":1
+          },
+          {
+            "id": 3,
+            "nameProduct": "memoria ram",
+            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/D_NQ_NP_722260-MPE42586139989_072020-O.jpg",
+            "price": 1200,
+            "quatity":1,
+            "categoria":1
+          },
+          {
+            "id": 4,
+            "nameProduct": "memoria ram",
+            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/ram-ddr4.jpg",
+            "price": 3000,
+            "quatity":1,
+            "categoria":1
+          },
+          {
+            "id": 5,
+            "nameProduct": "dico duro",
+            "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+            "price": 1800,
+            "quatity":1,
+            "categoria":2
+          },
+          {
+           "id": 6,
+           "nameProduct": "dico duro",
+           "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+           "price": 2800,
+           "quatity":1,
+           "categoria":2
+          },
+          {
+           "id": 7,
+           "nameProduct": "dico duro",
+           "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+           "price": 3800,
+           "quatity":1,
+           "categoria":2
+          },
+          {
+            "id": 8,
+            "nameProduct": "dico duro",
+            "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+            "price": 4800,
+            "quatity":1,
+            "categoria":2
+          },
+          {
+            "id": 11,
+            "nameProduct": "teclado",
+            "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/08/K552W-KR-SP-1.jpg",
+            "price": 200,
+            "quatity":1,
+            "categoria":3
+          },
+          {
+            "id": 12,
+            "nameProduct": "teclado",
+            "urlImage": "https://m.media-amazon.com/images/I/619MHX-XijL._AC_UF894,1000_QL80_.jpg",
+            "price": 300,
+            "categoria":3
+          },
+          {
+            "id": 13,
+            "nameProduct": "mouse",    
+            "urlImage": "https://png.pngtree.com/png-clipart/20211118/ourmid/pngtree-gaming-mouse-png-image_4035672.png",
+            "price": 280,
+            "quatity":1,
+            "categoria":4
+          },
+          {
+            "id": 14,
+            "nameProduct": "mouse",
+            "urlImage": "https://pngimg.com/d/computer_mouse_PNG7672.png",
+            "price": 150,
+            "quatity":1,
+            "categoria":4
+          },
+          {
+            "id": 19,
+            "nameProduct": "proyector",
+            "urlImage": "https://image-us.samsung.com/SamsungUS/home/television-home-theater/home-theater/02072022/VG-SCLB00NR_012_R-Pers-Tilted_Green.jpg",
+            "price": 9650,
+            "quatity":1,
+            "categoria":5
+          }
+        ],
+    "categoria":[
+      {
+        "id":1,
+        "nombre":"memoria",
+        "descripcion":"memoria para pc y laptos"
+      },
+      {
+        "id":2,
+        "nombre":"disco duro",
+        "descripcion":"disco duro solido para pc y laptos"
+      },
+      {
+        "id":3,
+        "nombre":"teclado",
+        "descripcion":"teclado para pc y laptos"
+      },
+      {
+        "id":4,
+        "nombre":"mouse",
+        "descripcion":"mouse para pc y laptos"
+      },
+      {
+        "id":5,
+        "nombre":"proyector",
+        "descripcion":"memoria para pc y laptos"
+      }
+    ]
+  }
+]
