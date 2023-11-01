@@ -79,6 +79,7 @@
             "nameProduct": "teclado",
             "urlImage": "https://m.media-amazon.com/images/I/619MHX-XijL._AC_UF894,1000_QL80_.jpg",
             "price": 300,
+            "quatity":1,
             "categoria":3
           },
           {
