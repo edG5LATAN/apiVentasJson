@@ -105,6 +105,38 @@
             "price": 9650,
             "quatity":1,
             "categoria":5
+          },
+          {
+            "id": 20,
+            "nameProduct": "proyector",
+            "urlImage": "https://w7.pngwing.com/pngs/551/464/png-transparent-multimedia-projectors-1080p-lcd-projector-3lcd-projector-electronics-1080p-technology.png",
+            "price": 3650,
+            "quatity":1,
+            "categoria":5
+          },
+          {
+            "id": 21,
+            "nameProduct": "proyector",
+            "urlImage": "https://i.blogs.es/48c24e/51swfajxo5l._ac_sl1000_-removebg-preview/650_1200.png",
+            "price": 6650,
+            "quatity":1,
+            "categoria":5
+          },
+          {
+            "id": 22,
+            "nameProduct": "monitor",
+            "urlImage": "https://images.samsung.com/is/image/samsung/latin-led-ls19d300hy-ls19d300hy-zp-006-front-black-thumb-47897113?$480_480_PNG$",
+            "price": 3550,
+            "quatity":1,
+            "categoria":6
+          },
+          {
+            "id": 23,
+            "nameProduct": "monitor",
+            "urlImage": "https://w7.pngwing.com/pngs/461/676/png-transparent-samsung-chg70-series-computer-monitors-samsung-curved-monitor-freesync-samsung-television-computer-display-advertising.png",
+            "price": 8850,
+            "quatity":1,
+            "categoria":6
           }
         ],
     "categoria":[
@@ -132,6 +164,11 @@
         "id":5,
         "nombre":"proyector",
         "descripcion":"memoria para pc y laptos"
+      },
+      {
+        "id":6,
+        "nombre":"monitor",
+        "descripcion":"monitores de diferentes marcas"
       }
     ]
   }
