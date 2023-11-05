@@ -21,7 +21,7 @@
           {
             "id": 3,
             "nameProduct": "memoria ram",
-            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/D_NQ_NP_722260-MPE42586139989_072020-O.jpg",
+            "urlImage": "https://powertech.com.co/hq/61-large_default/samsung-ddr3-portatil.jpg",
             "price": 1200,
             "quatity":1,
             "categoria":1
@@ -36,31 +36,31 @@
           },
           {
             "id": 5,
-            "nameProduct": "dico duro",
-            "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+            "nameProduct": "disco duro",
+            "urlImage": "https://www.tecnocomphn.com/storage/app/uploads/public/5dd/da9/636/5ddda96368b12981498196.jpg",
             "price": 1800,
             "quatity":1,
             "categoria":2
           },
           {
            "id": 6,
-           "nameProduct": "dico duro",
-           "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+           "nameProduct": "disco duro",
+           "urlImage": "https://ae01.alicdn.com/kf/S700f06d0dce045cfa91dc74a236dcf80C/Samsung-Disco-Duro-port-til-T7-unidad-de-estado-s-lido-USB-500-1TB-3-2.jpg",
            "price": 2800,
            "quatity":1,
            "categoria":2
           },
           {
            "id": 7,
-           "nameProduct": "dico duro",
-           "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
+           "nameProduct": "disco duro",
+           "urlImage": "https://upload.wikimedia.org/wikipedia/commons/8/83/Disco_duro_de_un_pc_portatil_-_1.jpg",
            "price": 3800,
            "quatity":1,
            "categoria":2
           },
           {
             "id": 8,
-            "nameProduct": "dico duro",
+            "nameProduct": "disco duro",
             "urlImage": "https://acosa.com.hn/wp-content/uploads/2022/04/ASU630SS-960GQ.jpg",
             "price": 4800,
             "quatity":1,
