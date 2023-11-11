@@ -5,7 +5,7 @@
        {
             "id": 1,
             "nameProduct": "memoria ram",
-            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/D_NQ_NP_722260-MPE42586139989_072020-O.jpg",
+            "urlImage": "https://m.media-amazon.com/images/I/71YL6-GhdcL.jpg",
             "price": 1000,
             "quatity":1,
             "categoria":1
@@ -21,7 +21,7 @@
           {
             "id": 3,
             "nameProduct": "memoria ram",
-            "urlImage": "https://powertech.com.co/hq/61-large_default/samsung-ddr3-portatil.jpg",
+            "urlImage": "https://m.media-amazon.com/images/I/61TPRZjtWyL._AC_UF894,1000_QL80_.jpg",
             "price": 1200,
             "quatity":1,
             "categoria":1
@@ -29,7 +29,7 @@
           {
             "id": 4,
             "nameProduct": "memoria ram",
-            "urlImage": "https://www.intelcomphonduras.com/wp-content/uploads/2021/06/ram-ddr4.jpg",
+            "urlImage": "https://m.media-amazon.com/images/I/5163jKpJCrL._AC_.jpg",
             "price": 3000,
             "quatity":1,
             "categoria":1
